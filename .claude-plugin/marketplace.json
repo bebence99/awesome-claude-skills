@@ -15,18 +15,33 @@
         "./canvas-design",
         "./changelog-generator",
         "./competitive-ads-extractor",
+        "./composio-skills",
         "./connect",
+        "./connect-apps",
+        "./connect-apps-plugin",
         "./content-research-writer",
+        "./developer-growth-analysis",
         "./document-skills",
         "./domain-name-brainstormer",
         "./file-organizer",
         "./image-enhancer",
         "./internal-comms",
         "./invoice-organizer",
+        "./langsmith-fetch",
         "./lead-research-assistant",
-        "./meeting-insights-analyzer",
         "./mcp-builder",
+        "./meeting-insights-analyzer",
         "./raffle-winner-picker",
         "./skill-creator",
+        "./skill-share",
         "./slack-gif-creator",
-        "./tail
+        "./tailored-resume-generator",
+        "./template-skill",
+        "./theme-factory",
+        "./twitter-algorithm-optimizer",
+        "./video-downloader",
+        "./webapp-testing"
+      ]
+    }
+  ]
+}
