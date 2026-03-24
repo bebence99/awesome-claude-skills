@@ -1,6 +1,8 @@
 {
   "name": "composio-skills",
-  "owner": "bebence99",
+  "owner": {
+    "login": "bebence99"
+  },
   "plugins": [
     {
       "name": "composio-skills",
@@ -27,11 +29,4 @@
         "./raffle-winner-picker",
         "./skill-creator",
         "./slack-gif-creator",
-        "./tailored-resume-generator",
-        "./theme-factory",
-        "./twitter-algorithm-optimizer",
-        "./webapp-testing"
-      ]
-    }
-  ]
-}
+        "./tail
