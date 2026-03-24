@@ -33,10 +33,3 @@
     }
   ]
 }
-```
-
-4. Kattints a **Commit changes** gombra
-
-Utána a Claude Code chatben:
-```
-/plugin marketplace add bebence99/awesome-claude-skills
