@@ -1,8 +1,10 @@
 {
+  "name": "composio-skills",
+  "owner": "bebence99",
   "plugins": [
     {
       "name": "composio-skills",
-      "description": "Collection of Claude skills for automating 100+ apps including Klaviyo, Shopify, Gmail, Slack, GitHub, Notion, and more",
+      "description": "Collection of Claude skills for automating 100+ apps",
       "source": "./",
       "strict": false,
       "skills": [
